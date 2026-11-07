@@ -1,6 +1,6 @@
 {
   "name": "douyin-video-search",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "抖音高赞视频检索工具。支持关键词获取抖音实时高赞视频数据，助力创作者发现热门趋势、获取创作灵感。",
   "keywords": [
     "douyin",
